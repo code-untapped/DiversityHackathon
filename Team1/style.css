@@ -82,6 +82,10 @@ nav a:hover {
   color: rgb(216, 216, 216);
 }
 
+.intro a {
+  color: white;
+}
+
 .country {
   padding: 20px 50px;
 }
